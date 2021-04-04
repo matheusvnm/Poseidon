@@ -1,6 +1,6 @@
 # Poseidon
 
-Poseidon is an easy to use OpenMP framework that is completely transparent to both the developer and the end-user. Without any recompilation, code modification or OS installitions, it is capable of finding, automatically and at run-time, the optimal number of threads for the parallel regions and the best turbo boosting mode for all the regions (i.e., parallel and sequential) of an parallel application. It comes in two versions: 
+Poseidon is an easy to use OpenMP framework that is completely transparent to both the developer and the end-user. Without any recompilation, code modification or OS installations, it is capable of finding, automatically and at run-time, the optimal number of threads for the parallel regions and the best turbo boosting mode for all the regions (i.e., parallel and sequential) of an parallel application. It comes in two versions: 
 
 * (I)  Poseidon Fine-grained: Strategy that optimizes the boosting mode for each region individually; 
 * (II) Poseidon Coarse-grained: Strategy that optimizes the boosting mode for each region of interest (i.e., the combination of one parallel region and a sequential one);
