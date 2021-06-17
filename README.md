@@ -29,7 +29,7 @@ Poseidon is an easy to use OpenMP framework that is completely transparent to bo
 3. Copy all files into the gcc libgomp directory:
       - cp * /path/gcc-version/libgomp.
 4. Compile the GCC using Make && Make install:
-      - cd /path/gcc-version/libgomp
+      - cd /path/gcc-version/
       - make
       - make install
 
