@@ -64,7 +64,7 @@ Poseidon has been mainly developed by Sandro Matheus Vila Nova Marques (sandro-m
 
 When using Poseidon, please use the following reference:
 
-XXXXXXX
+Marques, Sandro M., et al. "Optimizing Parallel Applications via Dynamic Concurrency Throttling and Turbo Boosting." 2021 29th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP). IEEE, 2021.
 
 
 
