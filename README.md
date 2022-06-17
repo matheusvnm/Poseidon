@@ -23,13 +23,13 @@ Poseidon is an easy to use OpenMP framework that is completely transparent to bo
 
 
 
-### Poseidon's Requirements.
+### Poseidon's dependencies.
 
-1. GCC 9.X version.
-2. MSR Module (only in AMD Version).
-3. Intel RAPL (only in Intel Version).
-4. ACPI cpu-freq driver.
+1. MSR Module (only in AMD Version).
+2. Intel RAPL (only in Intel Version).
+3. ACPI cpu-freq driver.
 
+**IMPORTANT: Poseidon only works with GCC 9.X version or superior.**
 
 ### How to install Poseidon?
 ---
@@ -43,8 +43,6 @@ Poseidon is an easy to use OpenMP framework that is completely transparent to bo
       - make
       - make install
 
-
-**IMPORTANT: Poseidon only works with GCC 9.X version or superior.**
 
 
 ### How to use Poseidon?
